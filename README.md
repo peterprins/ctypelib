@@ -21,6 +21,8 @@ $ctype.form
 $ctype.pptx
 ```
 
+**methods:**
+
 ```JavaScript
 $ctype.getType(filename_string)
 ```
